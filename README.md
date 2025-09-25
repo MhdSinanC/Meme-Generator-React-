@@ -5,7 +5,7 @@ A simple, interactive web app built in React that lets users create custom memes
 ## Demo
 
 Check out the live demo here:  
-[https://meme‑generator‑react‑liart.vercel.app](https://meme-generator-react-liart.vercel.app) :contentReference[oaicite:0]{index=0}
+[https://meme‑generator‑react‑liart.vercel.app](https://meme-generator-react-liart.vercel.app) 
 
 ---
 
@@ -15,14 +15,14 @@ Check out the live demo here:
 - Add custom text (top & bottom or per template)  
 - Live preview of memes with your text  
 - Export / download the meme image  
-- Clean, minimal UI using React + CSS :contentReference[oaicite:1]{index=1}
+- Clean, minimal UI using React + CSS 
 
 ---
 
 ## Built With
 
 - **React** – for UI and component structure  
-- **Vite** – as the build tool / dev server :contentReference[oaicite:2]{index=2}  
+- **Vite** – as the build tool / dev server   
 - **CSS** – basic styling  
 - HTML & JavaScript
 
