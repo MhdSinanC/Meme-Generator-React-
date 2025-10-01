@@ -13,8 +13,7 @@ Check out the live demo here:
 
 - Browse or select meme templates  
 - Add custom text (top & bottom or per template)  
-- Live preview of memes with your text  
-- Export / download the meme image  
+- Live preview of memes with your text    
 - Clean, minimal UI using React + CSS 
 
 ---
@@ -71,10 +70,7 @@ This generates an optimized production build in the `dist/` folder. Then you can
 ## Usage
 
 1. Open the app in your browser.
-2. Select or upload a meme template.
-3. Enter text for the meme (top and/or bottom).
-4. Adjust font size/color/position (if supported).
-5. Export or download the final image.
+2. Enter text for the meme (top and/or bottom).
 
 ---
 
